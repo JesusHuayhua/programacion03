@@ -1,0 +1,11 @@
+jar ejecutable con manifest:
+C:\Users\USUARIO\Documents\JAVAPROGRAMAS\LAB 4 2023-2\P2\PREGUNTA3>jar cfm pregunta3exe.jar MANIFEST.MF org/pucp/airsoft/program/main/*.class
+
+ejectuar el jar ejecutable:
+C:\Users\USUARIO\Documents\JAVAPROGRAMAS\LAB 4 2023-2\P2\PREGUNTA3>java -jar pregunta3exe.jar
+
+compilar haciendo uso de varios jars:
+C:\Users\USUARIO\Documents\JAVAPROGRAMAS\LAB 4 2023-2\P2\PREGUNTA3>javac -cp airsoftCompanies.jar;airsoftEngines.jar org/pucp/airsoft/management/model/*.java
+
+crear un jar(solo mete arch.class):
+C:\Users\USUARIO\Documents\JAVAPROGRAMAS\LAB 4 2023-2\P2\PREGUNTA3>jar -cf airsoftCompanies.jar org/pucp/airsoft/companies/model/*.class
