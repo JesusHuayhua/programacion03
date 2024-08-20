@@ -1,4 +1,0 @@
-hostname:lp2-labs-inf282-2023-2.ccv53oykh3ij.us-east-1.rds.amazonaws.com
-pass: lp2labsinf282
-usuario maestro: master
-basedatos inicial:inf282
