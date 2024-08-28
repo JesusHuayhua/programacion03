@@ -2,7 +2,7 @@
 # Variables globales
 #=======================================================
 
-declare -a librerias
+declare -a libreriass
 declare -a parametros
 declare parametros_constructor=""
 declare cuerpo_constructor=""
