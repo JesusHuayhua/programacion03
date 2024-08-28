@@ -4,3 +4,5 @@ src/
 build.xml
 manifest.mf
 *.class
+zips/
+*.zip
